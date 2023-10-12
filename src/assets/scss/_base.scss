@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: row;
+    font-family: 'Saira', sans-serif;
+}
+
+.row{
+    display: flex;
+}
+
+main{
+    background-color: #F2ACB9;
+    
+}
+
+.contanier{
+    width: 100%;
+    margin: 0 auto;
+}
+
+body{
+    overflow-x:hidden ;
+}

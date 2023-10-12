@@ -1,0 +1,705 @@
+// .blog {
+//   background-color: #f2acb9;
+//   width: 100%;
+//   position: relative;
+
+//   .contanier {
+//     .row {
+//       justify-content: center;
+
+//       .leftSide {
+//         position: absolute;
+//         left: 0px;
+//       }
+//       .rightSide {
+//         position: absolute;
+//         z-index: 1;
+//         right: 0px;
+//         bottom: 12%;
+//       }
+//       .rightSide2 {
+//         position: absolute;
+//         right: 10%;
+//         bottom: 25%;
+//       }
+
+//       .blogTitle {
+//         position: absolute;
+//         display: flex;
+//         flex-direction: column;
+//         align-items: center;
+//         justify-content: center;
+//         z-index: 100;
+//         h2 {
+//           font-size: 45px;
+//           font-family: "Saira", sans-serif;
+//           color: #5c3121;
+//         }
+//         p {
+//           font-size: 20px;
+//           color: #5c3121;
+//           width: 74%;
+//           text-align: center;
+//         }
+//         form {
+//           input {
+//             width: 400px;
+//             border-radius: 10px;
+//             border: 1px solid #fff;
+//             padding: 10px;
+//             background: #f2acb9;
+//             outline: none;
+//             position: relative;
+//           }
+//           .subscribe {
+//             width: 8%;
+//             border-radius: 10px;
+//             padding: 5px;
+//             background: #5c3121;
+//             color: #fff;
+//             position: absolute;
+//             right: 30%;
+//             top: 79%;
+//             cursor: pointer;
+//             outline: none;
+//             border: none;
+//           }
+//         }
+//       }
+//       .blogComponent {
+//         display: flex;
+//         flex-direction: column;
+//         width: 100%;
+//         position: relative;
+//         z-index: 5;
+//         margin-top: 20%;
+//         .blogFirstComponent {
+//           width: 100%;
+//           display: flex;
+//           align-items: center;
+//           justify-content: center;
+
+//           p {
+//             font-size: 20px;
+//             color: #5c3121;
+//           }
+//           .blogCard {
+//             width: 83%;
+//             display: flex;
+//             align-items: center;
+//             justify-content: center;
+//             background: #fff;
+//             border-radius: 15px;
+//             gap: 5%;
+//             box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+//             justify-content: center;
+//             button {
+//               width: 20%;
+//               border-radius: 50px;
+//               background-color: transparent;
+//               border: 1px solid #5c3121;
+//               color: #5c3121;
+//               font-size: 15px;
+//               font-weight: 500;
+//               margin-left: 2%;
+//             }
+
+//             .bigPict {
+//               width: 40%;
+//               border-top-left-radius: 15px;
+//               border-bottom-left-radius: 15px;
+//             }
+//             img {
+//               width: 100%;
+//             }
+//             span {
+//               color: #8d8d8d;
+//               font-size: 15px;
+//             }
+//             h4 {
+//               color: #5c3121;
+//               font-size: 35px;
+//               margin-top: 20px;
+//             }
+//             p {
+//               color: #585858;
+//               margin-bottom: 5%;
+//               width: 78%;
+//             }
+//           }
+//         }
+//         .blogSecondComponent {
+//           width: 84%;
+//           display: flex;
+//           align-items: center;
+//           justify-content: center;
+//           gap: 4%;
+//           margin-left: 8%;
+
+//           .blogCards {
+//             width: 98%;
+//             display: flex;
+//             margin-top: 6%;
+//             flex-direction: column;
+//             border-radius: 21px;
+//             background: #fff;
+//             box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+//             .blogInfo {
+//               width: 100%;
+//               padding: 10px;
+//             }
+//             img {
+//               width: 100%;
+//             }
+//             span {
+//               color: #8d8d8d;
+//               font-size: 15px;
+//               margin-left: 10px;
+//             }
+//             h4 {
+//               color: #5c3121;
+//               font-size: 35px;
+//               text-align: left;
+//               margin-left: 10px;
+//             }
+//             p {
+//               color: #585858;
+//               margin-left: 10px;
+//             }
+//             button {
+//               width: 20%;
+//               border-radius: 50px;
+//               background-color: transparent;
+//               border: 1px solid #5c3121;
+//               color: #5c3121;
+//               font-size: 15px;
+//               font-weight: 500;
+//               margin-left: 10px;
+//               cursor: pointer;
+//               margin-top: 3%;
+//             }
+//           }
+//           .card {
+//             margin-top: 26%;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (max-width: 1056px) {
+//   .blog {
+//     width: 100%;
+//     .contanier {
+//       .row {
+//         .blogTitle {
+//           h2 {
+//             font-size: 30px;
+//           }
+//           form {
+//             display: flex;
+//             flex-direction: column;
+//             align-items: center;
+//             justify-content: center;
+//             input {
+//               width: 160%;
+//               position: relative;
+//             }
+//             button {
+//               position: absolute;
+//               top: 75%;
+//               right: 36%;
+//             }
+//           }
+//         }
+//         .blogComponent {
+//           margin-left: 0;
+//           flex-direction: column;
+//           align-items: center;
+
+//           .blogSecondComponent {
+//             .blogCards {
+//               width: 100%;
+//               display: flex;
+//               margin-top: 6%;
+//               .blogImg {
+//                 width: 100%;
+//                 img {
+//                   width: 100%;
+//                 }
+//               }
+//               .blogInfo {
+//                 width: 100%;
+//                 display: flex;
+//                 flex-direction: column;
+//                 gap: 7px;
+//                 .button {
+//                   display: flex;
+//                   button {
+//                     width: 25%;
+//                     border-radius: 50px;
+//                     background-color: transparent;
+//                     border: 1px solid #5c3121;
+//                     color: #5c3121;
+//                     font-size: 15px;
+//                     font-weight: 500;
+//                     margin-left: 10px;
+//                     cursor: pointer;
+//                   }
+//                 }
+//                 span {
+//                   color: #8d8d8d;
+//                   font-size: 15px;
+//                   margin-left: 10px;
+//                 }
+//                 h4 {
+//                   color: black;
+//                   font-size: 35px;
+//                   text-align: left;
+//                   margin-left: 10px;
+//                 }
+//                 p {
+//                   color: #585858;
+//                   margin-left: 10px;
+//                 }
+//               }
+//             }
+//           }
+//           .blogFirstComponent {
+//             p {
+//               font-size: 20px;
+//             }
+//             .blogCard {
+//               width: 100%;
+//               img {
+//                 width: 100%;
+//               }
+//             }
+//           }
+//         }
+//         .leftSide {
+//           left: -25px;
+//           img {
+//             width: 100%;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (max-width: 768px) {
+//   .blog {
+//     width: 100%;
+//     .contanier {
+//       .row {
+//         .blogTitle {
+//           h2 {
+//             font-size: 30px;
+//           }
+//           form {
+//             button {
+//               position: absolute;
+//               top: 75% !important;
+//               right: 31% !important;
+//               width: 10% !important;
+//             }
+//           }
+//         }
+//         .blogComponent {
+//           margin-left: 0;
+//           flex-direction: column;
+//           align-items: center;
+//           .blogFirstComponent {
+//             margin-left: 8%;
+//             .blogCard {
+//               flex-direction: column;
+//               width: 60%;
+
+//               h4 {
+//                 font-size: 25px;
+//               }
+//               p {
+//                 font-size: 15px;
+//               }
+//               img {
+//                 width: 100%;
+//               }
+//             }
+//           }
+//           .blogSecondComponent {
+//             flex-direction: column;
+//             .blogCards {
+//               width: 70%;
+
+//               .blogImg {
+//                 width: 100%;
+//                 img {
+//                   width: 100%;
+//                 }
+//               }
+//               .blogInfo {
+//                 width: 100%;
+//                 button {
+//                   width: 40%;
+//                 }
+//               }
+//             }
+//           }
+//           .blogFirstComponent {
+//             margin-top: 10%;
+//             .blogCard {
+//               img {
+//                 width: 100% !important;
+//               }
+//             }
+//           }
+//         }
+//         .leftSide {
+//           left: -25px;
+//           img {
+//             width: 75%;
+//           }
+//         }
+//         .rightSide {
+//           position: absolute;
+//           z-index: 1;
+//           right: 5%;
+//           bottom: 12%;
+//           width: 100%;
+//           img {
+//             width: 32%;
+//           }
+//         }
+//         .rightSide2 {
+//           position: absolute;
+//           right: 76%;
+//           bottom: 18%;
+//           width: 34%;
+//           img {
+//             width: 70%;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (max-width: 568px) {
+//   .blog {
+//     width: 100%;
+//     .contanier {
+//       .row {
+//         .blogTitle {
+//           h2 {
+//             font-size: 30px;
+//           }
+//           p {
+//             font-size: 15px;
+//           }
+//           form {
+//             input {
+//               width: 100%;
+//             }
+//             button {
+//               top: 74% !important;
+//               right: 36% !important;
+//               width: 9% !important;
+//               font-size: 61% !important;
+//             }
+//           }
+//         }
+//         .blogComponent {
+//           margin-left: 0;
+//           flex-direction: column;
+//           align-items: center;
+//           .blogFirstComponent {
+//             margin-top: 50%;
+//             .blogCard {
+//               width: 85%;
+//               .blogInfo {
+//                 padding: 15px;
+                
+//               }
+//               .button {
+//                 flex-direction: column;
+//                 button {
+//                   width: 50%;
+//                 }
+//               }
+//               img {
+//                 width: 100% !important;
+//               }
+//               h4 {
+//                 font-size: 30px;
+//               }
+//               p {
+//                 font-size: 15px;
+//               }
+//             }
+//           }
+//           .blogSecondComponent {
+//             .blogCards {
+//               width: 100%;
+//               flex-direction: column;
+//               .blogInfo {
+//                 .button {
+//                   flex-direction: column;
+//                   button {
+//                     width: 100%;
+//                     margin-bottom: 10px;
+//                   }
+//                 }
+//               }
+//             }
+//           }
+//         }
+//         .leftSide {
+//           left: -25px;
+//           img {
+//             width: 75%;
+//           }
+//         }
+//         .rightSide {
+//           position: absolute;
+//           z-index: 1;
+//           right: 6%;
+//           bottom: -2%;
+//           width: 100%;
+//           img {
+//             width: 31%;
+//           }
+//         }
+//         .rightSide2 {
+//           position: absolute;
+//           right: 66%;
+//           bottom: 2%;
+//           width: 52%;
+//           img {
+//             width: 70%;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (max-width: 368px) {
+//   .blog {
+//     width: 100%;
+//     .contanier {
+//       .row {
+//         .blogTitle {
+//           h2 {
+//             font-size: 25px;
+//           }
+//           p {
+//             font-size: 16px;
+//           }
+//           form {
+//             input {
+//               width: 100%;
+//             }
+//             button {
+//               top: 81% !important;
+//               right: 26% !important;
+//               width: 14% !important;
+//               font-size: 9px;
+//             }
+//           }
+//         }
+//         .blogComponent {
+//           margin-left: 0;
+//           flex-direction: column;
+//           align-items: center;
+//           .blogFirstComponent {
+//             margin-top: 57%;
+//             width: 84%;
+//             .blogCard {
+//               width: 100%;
+//               button {
+//                 width: 40%;
+//               }
+//               img {
+//                 width: 100% !important;
+//               }
+//               h4 {
+//                 font-size: 30px;
+//               }
+//               p {
+//                 font-size: 15px;
+//               }
+//             }
+//           }
+//           .blogSecondComponent {
+//             .blogCards {
+//               width: 100%;
+//             }
+//           }
+//         }
+//         .leftSide {
+//           left: -25px;
+//           img {
+//             width: 75%;
+//           }
+//         }
+//         .rightSide {
+//           position: absolute;
+//           z-index: 1;
+//           right: 6%;
+//           bottom: -2%;
+//           width: 100%;
+//           img {
+//             width: 31%;
+//           }
+//         }
+//         .rightSide2 {
+//           position: absolute;
+//           right: 66%;
+//           bottom: 2%;
+//           width: 52%;
+//           img {
+//             width: 70%;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (max-width: 268px) {
+//   .blog {
+//     width: 100%;
+//     .contanier {
+//       .row {
+//         justify-content: space-between;
+//         gap: 50%;
+//         .blogTitle {
+//           button {
+//             top: 73% !important;
+//             right: 17% !important;
+//             width: 21% !important;
+//             font-size: 55% !important;
+//           }
+//         }
+//         .blogComponent {
+//           .blogFirstComponent {
+//             margin-top: 100%;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (max-width: 178px) {
+//   .blog {
+//     .contanier {
+//       .row {
+//         .blogTitle {
+//           p {
+//             font-size: 10px;
+//           }
+//           button {
+//             top: 77% !important;
+//             right: 2% !important;
+//             width: 36% !important;
+//             font-size: 11px !important;
+//           }
+//         }
+//         .blogComponent {
+//           .blogFirstComponent {
+//             .blogCard{
+//               button{
+//                 width: 25%;
+//               }
+//             }
+//             .blogInfo{
+//               padding: 14px;
+//             }
+//             p {
+//               font-size: 15px;
+//             }
+//             margin-top: 100%;
+//           }
+//           .blogSecondComponent {
+//             .blogCards {
+//               .blogInfo {
+//                 padding: 14px;
+//                 span {
+//                   font-size: 10px;
+//                 }
+//                 h4 {
+//                   font-size: 20px;
+//                 }
+//                 p {
+//                   font-size: 8px;
+//                 }
+//                 .button {
+//                   button {
+//                     width: 92%;
+//                     font-size: 6px;
+//                   }
+//                 }
+//               }
+//             }
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (max-width: 450px) {
+//   .blog {
+//     .contanier {
+//       .row {
+//         .blogTitle {
+//           h2 {
+//             font-size: 30px;
+//           }
+//           p {
+//             font-size: 15px;
+//           }
+//           form {
+//             input {
+//               width: 100%;
+//             }
+//             button {
+//               top: 79% !important;
+//               right: 34% !important;
+//               width: 12% !important;
+//               font-size: 55% !important;
+//             }
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+// @media screen and (max-width: 325px) {
+//   .blog {
+//     .contanier {
+//       .row {
+//         .blogTitle {
+//           h2 {
+//             font-size: 25px;
+//           }
+//           p {
+//             font-size: 10px;
+//           }
+//           form {
+//             button {
+//               top: 74%;
+//               right: 23%;
+//               width: 16%;
+//               font-size: 55%;
+//             }
+//           }
+//         }
+//       }
+//     }
+//   }
+// }

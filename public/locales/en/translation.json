@@ -1,0 +1,244 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "blog": "Blog",
+    "products": "Products"
+  },
+  "home": {
+    "title": "Milk harmony",
+    "description": "'Qaymaq' is a new eco-brand that presents quality and 100% natural, local products on the Azerbaijani market,Therefore, “ Qaymaq ” products are produced daily from natural raw materials, in the special production area (SPA), in the classical way. We do not use preservatives, substitutes or artificial additives during production. Due to this, the shelf life of 'Qaymaq' products is relatively shorter compared to others.    ",
+    "cream": "Cream 25%",
+    "milk": "Milk",
+    "yogurt": "Strawberry Bio Yogurt"
+  },
+  "allproduct": {
+    "title": "Products",
+    "description": "Our team works every day to make sure you see your favorite products on store shelves.",
+    "honey": "Flower Honey",
+    "yogurt": "Yogurt",
+    "flour": "Flour",
+    "bread": "Bread",
+    "dovga": "Dovga",
+    "seeAll": "See all products"
+  },
+  "awards": {
+    "title": "Awards",
+    "certificate": "Certificates",
+    "description1": "'Qaymaq' is an innovative company specializing in the production of environmentally friendly and high-quality dairy products. Founded with a clear mission to promote a healthy lifestyle and respect for the environment,  ",
+    "description2":"'Qaymaq' has become one of the leaders in the natural dairy products market in AzerbaijaIn 2018, 'Qaymaq' received a prestigious certificate from the independent international organization SGS (Société Générale de Surveillance). This certificate confirms that all 'Qaymaq' products are manufactured in strict compliance with high-quality and safety standards. SGS is one of the most respected companies that inspect and certify products worldwide, and obtaining this certificate is a significant achievement for 'Qaymaq'.By using only natural ingredients without adding preservatives, artificial colors, and flavors, 'Qaymaq' products have gained the trust and love of its customers.",
+    "description3":"The company strives for continuous improvement and innovation to provide its consumers with the best and healthiest options.Every day, the 'Qaymaq' team works with full dedication and passion to offer you the finest dairy products that contribute to your health and well-being. We take pride in knowing that our products make your life healthier and more enjoyable. Thank you for choosing Qaymaq!"
+  },
+  "delivery": {
+    "title": "Delivery"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "question": "Have a question?",
+    "answer": "Write Us!",
+    "name":"FullName",
+    "number":"Number",
+    "email":"E-mail",
+    "message":"Message",
+    "button":"Confirim"
+
+  },
+  "about": {
+    "title": "About Us",
+    "description": "'Qaymaq' offers high-quality natural dairy products. We strive to provide our customers with the freshest and most delicious products made from the finest dairy ingredients, without any artificial additives or preservativeOur philosophy is based on the purity and simplicity of nature. We take pride in our highly skilled specialists, caring team, and modern technologies, which enable us to maintain consistent product quality and meet our customers' expectations.Impeccable purity, freshness, and superior taste are what make Qaymaq products truly special. We are constantly aiming to surprise and delight our consumers with new flavors and products.We value the trust and support of our customers, which motivates us to continue evolving and improving. Our mission is to strive for excellence and deliver only the best.",
+    "content": "Thanks to our dairy products, everyone can enjoy wholesome and tasty treats that contribute to a healthy lifestyle and well-being. 'Qaymaq is the choice for those who care about their health and want to savor the finest quality natural products."
+  },
+  "products": {
+    "title": "Our Products",
+    "box1": "100% Organic",
+    "box2": "Always Fresh",
+    "box3": "Healthy Cooking",
+    "box4": "Best Quality",
+    "boxTitle1": "We care about what you eat. We want to produce food which nourishes your body and tastes delicious.",
+    "boxTitle2": "Always Fresh is a way of life where sharing food with loved ones tunes everyday.",
+    "boxTitle3": "Look to the cooking strategies behind the delicious recipes in the Feel Good Feel Plan.",
+    "boxTitle4": "Our main goal is to delight our customers with authentic and environmentally friendly products.",
+    "dairy": "DAIRY PRODUCTS",
+    "honey": "HONEY PRODUCTS",
+    "bread": "BAKERY PRODUCTS",
+    "flour": "FLOUR PRODUCTS",
+    "1": {
+      "description": "Non-fat dovga 0.1% – The vegetable components in its composition should be soft but not fully cooked. It should have the authentic taste and the texture of the traditional dish. A slight whey separation on top is allowed. Its composition includes pasteurized non-fat natural cow's milk, fresh yogurt, egg, cucumber, dill, flour, salt, and yeast. 100g of the product contains: fat-0.1g, proteins-2.6g, carbohydrates-4.5g. Energy value (calorific value) of 100g of the product is 29 kcal / 121 kJ. Net weight: 800 ± 15g. Storage conditions: at a temperature of 4 ± 2°C and relative humidity of no more than 85%. Production and expiration date are indicated on the packaging. Allergens: lactose, egg, gluten. Manufacturer",
+      "title": "Dovga 0.1%"
+    },
+    "2": {
+      "title":"Dovga",
+      "description":"Ingredients: pasteurized natural cow's milk, leaven, fresh greens, rice, peas, flour, salt. Shelf life: at t 4 ± 2 ° C - 14 days, 24 hours after opening the lid. Nutrition value per 100 g of product: fats –2.5 g, proteins –2.6 g, carbohydrates –4.5 g. Energy value: 50.9 kcal. Net Weight: 800 ± 24g. Manufacturer company: “Xırman”"
+    },
+    "3": {
+      "title": "Boiled Sweetened condensed  milk",
+      "description": "Ingredients: natural cow's milk, sugar, vegetable oil, lactose. 100 gr. nutritional value of the product: fats 8.0 g., proteins 7.4 g., carbohydrates 54.7 g. 100 g. energy value (calorie) of the product: 324.9 kcal/1360kV. Net weight: 365+11g. Storage conditions: 45 days at 0-degree +10 degrees"
+    },
+    "4": {
+      "title": "Bio Yogurt kiwi ",
+      "description": "It should have a necessary self, creamy mass. It should have a delightful taste and aroma typical of clean, fermented dairy product and the added ingredients, characteristic of yogurt. The color of the entire mass should be uniform white (the color of milk) and the color characteristic of the added ingredients. The number of live microorganisms should not be less than 1x107./g, the number of bifidobacteria should not be less than 1x107./g. Contains calcium (Ca), phosphorus (P), iodine (I), zinc (Zn) microelements and B2, B5, B12 vitamins. Composition: whole cow's milk, defatted cow's milk, sugar, milk protein, fruit mix (sugar, kiwi), yogurt starter, bifidobacteria. 100g of the product contains: fats-2.9g, proteins-4.4g, carbohydrates-15.7g. Energy value (calorific value) of 100g of the product is 107 kcal/448 kJ. Net weight: 190±8.5g. Storage conditions: at a temperature of 4±2°C and relative humidity of no more than 85%. Production and expiration date are indicated on the packaging. Allergens: lactose."
+    },
+    "6": {
+      "title": "Bio Strawberry Yogurt ",
+      "description": "Yogurt strawberry - It should have a homogeneous, sufficiently viscous, cream-like mass. It should have the taste and aroma of pure, sour milk product and added ingredients, and the right sweetness for yogurt. The whole mass should be uniformly white (milk color) and have a color specific to the added ingredients. The amount of living microorganisms is not less than 1x107./G, and the amount of bifidobacteria is not less than 1x107./G. It contains calcium (Ca), phosphorus (P), iodine (I), zinc (Zn) trace elements and vitamins B2, B5, B12. Ingredients: skimmed cow's milk, sugar, milk protein, fruit jam (sugar, strawberry), yogurt yeast, bifidobacteria. 100 gr. nutritional value of the product: fats - 2.9 g., proteins - 4.4 g., carbohydrates - 16 g. Energy value (calorie) of 100 g product: 108 kcal /452.2 kC. Net weight: 190±8.5 g. Storage conditions: t 4±2℃ and relative air humidity not exceeding 85%. The production and expiration date are indicated on the packaging. Allergens: lactose."
+    },
+    "7":{
+      "title": "Bio Yogurt Chairy ",
+      "description": "Yogurt with Chairy – It should have a necessary self, creamy mass. It should have a delightful taste and aroma typical of clean, fermented dairy product and the added ingredients, characteristic of yogurt. The color of the entire mass should be uniform white (the color of milk) and the color characteristic of the added ingredients. The number of live microorganisms should not be less than 1x107./g, the number of bifidobacteria should not be less than 1x107./g. Contains calcium (Ca), phosphorus (P), iodine (I), zinc (Zn) microelements and B2, B5, B12 vitamins. Composition: whole cow's milk, defatted cow's milk, sugar, milk protein, fruit mix (sugar, albalı), yogurt starter, bifidobacteria. 100g of the product contains: fat-2.9g, proteins-4.4g, carbohydrates-17.4g. Energy value (calorific value) of 100g of the product is 113 kcal/473 kJ. Net weight: 190±8.5g. Storage conditions: at a temperature of 4±2°C and relative humidity of no more than 85%. Production and expiration date are indicated on the packaging. Allergens: lactose."
+    },
+  
+    "8": {
+      "title": "Flower Honey",
+
+      "description": "Ingredients: Natural honey (75%) and honey from other flowers. This honey has been collected from the foothills of Shahdag. Moisture content: 6.4g. Acidity: 1.2%. The quality of the honey has been confirmed through laboratory research. Net weight: 270g. Manufacturer: Khirman LLC."
+    },
+    "9": {
+      "title": "Strawberry Jam",
+
+      "description": "Ingredients: Strawberries, powdered sugar, vanilla bean. Sugar content 29%. 100g. Nutritional value of the product: carbohydrates-50g, fats-0g, proteins-0g. Energy value (calories) of 100g product: 230 kcal. Potential allergens: Made from fresh strawberries. Net weight: 300+10g. Manufacturer: XIRMAN MMC"
+    },
+    "10": {
+      "title": "Mountain Honey",
+
+      "description": "Ingredients: natural mountain honey. The quality of honey has been confirmed as a result of laboratory studies. Net weight: 270 gr. Manufacturer: Khirman LLC"
+    },
+    "11": {
+      "title": "Apricot Jam",
+
+      "description": "Ingredients: apricots, powdered sugar, vanilla bean. Sugar content 29%. 100g. nutritional value of the product: carbohydrates-72g, fats-0g, proteins -0g. 100g. energy value (calories) of the product: 227 kcal. Potential allergens: contains vanilla bean. Net weight: 300+10g. Manufacturer: Khirman LLC"
+    },
+    "12": {
+    "title": "Quince Jam",
+
+      "description": "It should have the same, sufficiently viscous, cream-like mass. It should have the taste and aroma of a clean, sour milk product and the added ingredients, and the necessary sweetness for yogurt. It should have a uniform white (milk color) throughout the mass and the color of the added ingredients. The amount of living microorganisms is not less than 1x107./G, the amount of bifidobacteria is not less than 1x107./G. Calcium (Ca ), phosphorus (P), iodine (I), zinc (Zn) trace elements and vitamins B2, B5, B12. Ingredients: skimmed cow's milk, skimmed cow's milk, sugar, milk protein, fruit jam (sugar, kiwi), yogurt yeast, bifidobacteria. Nutritional value of 100 g of the product: fats-2.9 g, proteins-4.4 g, carbohydrates-15.7 g. 100 g r product energy value (caloric value): 107 kcal /448 kC. Net weight: 190±8.5 g. Storage conditions: t 4±2℃ and relative humidity of the air not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "13": {
+    "title": "Kiwi Jam",
+
+      "description": " Ingredients: Kiwi, Sugar powder, Vanilla bar 2.100g.100gr, oils -0 g.0 kc.0 grans - 240 kcal.potential allergens: 300 + 10 grams: 300 + 10 grams: XIRMAN MMC"
+    },
+    "15": {
+      "title":"Forest Honey",
+      "description": "Ingredients: natural forest honey. This honey was collected from the foot of the Shah mountain. Diactose-10.9g. Acidity-1.4%. The quality of the honey was confirmed as a result of laboratory studies. Net weight: 270g. Manufacturer: Khirman LLC"
+    },
+    "16": {
+      "title":"Qaratikan Honey",
+      "description": "Ingredients: natural honey. The quality of honey has been confirmed as a result of laboratory studies. Net weight: 270 gr. Manufacturer: Khirman LLC"
+    },
+    "22": {
+    "title": "Melted Butter 1kg",
+      "description": "Melted butter - should have the specific taste and smell of milk fat, and the same color throughout the mass: light yellow to yellow. It should have the consistency of granular, soft, shiny melted butter without sediment."
+    },
+    "23": {
+    "title": "Melted Butter 500gr",
+
+      "description": "Melted butter - should have the specific taste and smell of milk fat, and the same color throughout the mass: light yellow to yellow. It should have the consistency of granular, soft, shiny melted butter without sediment."
+    },
+    "24": {
+    "title": "Bio Yogurt Apricot",
+
+      "description": "Yogurt apricot - It should have a homogenous, sufficiently viscous, cream-like mass. It should have the taste and aroma of a clean, sour milk product and the added ingredients, and the necessary sweetness for yogurt. The entire mass should have a uniform white (milk color) and the color of the added ingredients. The amount of live microorganisms should not be less than 1x107./G, the amount of bifidobacteria should not be less than 1x107./G with calcium (Ca), phosphorus (P), iodine (I), zinc (Zn) and vitamins B2, B5, B12. Ingredients: skimmed cow's milk, skimmed cow's milk, sugar, milk protein, fruit jam (sugar, apricot), yogurt yeast, bifidobacteria. Nutritional value of 100 g of the product: fats-2.9 g, proteins-4.4 g, carbohydrates-18 g. Energy value (caloric content) of 100 g product: 116 kcal /485.7 kC. Net weight: 190±8.5 g. Storage conditions: t 4±2℃ and relative humidity of the air not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "25": {
+    "title": "Butter 250 GR",
+
+      "description": "Butter - butter made from pure, pasteurized cream should have a specific taste and smell, as well as the same color throughout the mass: from light yellow to yellow. When cut, a homogeneous, plastic, dense fat surface should appear with a slightly shiny and dry appearance or with a few drops of moisture. Ingredients: pasteurized cream made from natural cow's milk. Nutritional value of 100 g of product: fats - 82.5 g., proteins - 0.6 g. , carbohydrates-0.8 g. Energy value (calorie) of 100 g product: 748 kcal/3132 kC. Storage conditions: 35 days at t 3±2℃, 60 days at t -6±3℃, 120 days at t -16±2℃. Allergens: lactose."
+    },
+    "26": {
+      "title":"Butter 500 GR",
+      "description": "Butter - butter made from pure, pasteurized cream should have a specific taste and smell, as well as the same color throughout the mass: from light yellow to yellow. When cut, a homogeneous, plastic, dense fat surface should appear with a slightly shiny and dry appearance or with a few drops of moisture. Ingredients: pasteurized cream made from natural cow's milk. Nutritional value of 100 g of product: fats - 82.5 g., proteins - 0.6 g. , carbohydrates-0.8 g. Energy value (calorie) of 100 g product: 748 kcal/3132 kC. Storage conditions: 35 days at t 3±2℃, 60 days at t -6±3℃, 120 days at t -16±2℃. Allergens: lactose."
+    },
+    "27": {
+      "title":"Oily cottage cheese 200gr",
+      "description": "Curd fat - uniform white or creamy throughout the entire mass, should have a white color, clean, sour milk product taste and smell. It is allowed to be delicate, homogeneous, soft, spreadable and small-grained. Ingredients: pasteurized natural cow's milk, yeast. Nutritional value of 100 g of product: fats-18 g, proteins-14 g, carbohydrates-2.8 g. Energy value of 100 g of product ( caloric value): 229 kcal /958 kC. Net weight: 200±9 g. Storage conditions: t 4±2℃ and relative humidity of the air not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "28": {
+    "title": "Fat-free cottage cheese 200 gr",
+
+      "description": "Curd without fat - white or creamy throughout the entire mass, should have a white color, a clean, sour milk product taste and smell. Delicate, homogeneous, soft, spreadable, fine-grained, and a slight separation of the whey is allowed. Ingredients: defatted, pasteurized natural cow's milk, yeast. Nutritional value of 100 g of product: fats - 0.1 g, proteins - 16 g, carbohydrates lar-1.5 g. Energy value (caloric content) of 100 g product: 70 kcal /293 kC. Net weight: 200±9 g. Storage conditions: t 4±2℃ and relative air humidity not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lacto"
+    },
+    "30": {
+      "title":"Bio Yogurt classic",
+      "description": "Yogurt classic - It should have a homogenous, sufficiently viscous, cream-like mass. It should have the taste and aroma of a pure, sour milk product and the added ingredients, and the necessary sweetness for yogurt. The whole mass should have a uniform white (milk color) and the color of the added ingredients. The amount of living microorganisms should not be less than 1x107./G, the amount of bifidobacteria should not be less than 1x107./G Contains calcium (Ca), phosphorus (P), iodine (I), zinc (Zn) trace elements and vitamins B2, B5, B12. Ingredients: skimmed cow's milk, skimmed cow's milk, sugar, milk protein, yogurt yeast, bifidobacteria. Nutritional value of 100 g of product: fats-2.9 g, proteins-4.4 g, carbohydrates-11.9 g. Energy value of 100 g of product ( caloric value): 91 kcal /381 kC. Net weight: 190±8.5 g. Storage conditions: t 4±2℃ and relative humidity of the air not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "31": {
+      "title":"River oil",
+      "description": "River oil - must have a specific taste and smell for butter made from pure, pasteurized cream, as well as the same color throughout the entire mass: from white to yellow. When cut, it should look a little shiny and dry or have a homogeneous, plastic, dense fat surface with a few drops of moisture. Ingredients: Pasteurized cream made from natural cow's milk. Nutritional value of 100 g of product: fats-82.5g., proteins-0.5g. , carbohydrates-0.7g. Energy value (calories) of 100g product: 770 kcal/3222 kC. Net weight: 500±15g. Storage conditions: temperature 0±5℃ and relative humidity not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "32": {
+      "title":"Cheese law salted ",
+      "description": "Cheese with little salt - The surface should be clean, smooth, undamaged, thin and soft rind. It should have a uniform white or slightly yellowish color throughout the mass, a clean, proper saltiness, the taste and smell of a sour milk product. It should have a delicate and homogeneous consistency, and when cut, a small amount of pores and voids should be visible. Ingredients: natural cow's milk, ruminal yeast, salt. Nutritional value of 100 g of product: fats- 17 g., proteins-16 g., carbohydrates-1.2 g. Energy value (calories) of 100 g product: 222 kcal/929 kC. Net weight: 500±15 g. Storage conditions: t 4±2℃ and relative air humidity not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "33": {
+      "title":"Condensed sugar milk GOST",
+
+      "description": "Condensed sugar milk - with the taste of sweet, pure, pasteurized milk, it should have the same creamy white color throughout the entire mass. It should be homogeneous and not contain milk sugar crystals that can be felt by the organoleptic. During storage, a slight lactose deposit is allowed to settle at the bottom of the jar. Ingredients: natural cow's milk, sugar, lactose. Nutritional value of 100 g of the product: fats-8.0 g, proteins-7 ,2 g., carbohydrates-56 g. Energy value (calories) of 100 g product: 324.8 kcal/1360 kC. Net weight: 400±12 g. Storage conditions: t 0℃ - +10℃ and relative air humidity not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "34": {
+      "title":"Yoghurt 2kg",
+      
+      "description": "Yoghurt 3.2% - a dense homogenous solution should have the appearance of a uniform white color throughout the mass. A little whey is allowed to separate on it. It should have a clean, sour milk product smell. Ingredients: pasteurized natural cow's milk, yeast. Nutritional value of 100 g of product: fats - 3.2 g, proteins - 2.9 g, carbohydrates - 4.0 g. Energy value of 100 g of product (calories) 56kcal/234kC. Net weight: 920±15 g. Storage conditions: t 4±2℃ and relative air humidity not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "35": {
+      "title":"Yoghurt 920gr",
+
+      "description": "Yoghurt 3.2% - a dense homogenous solution should have the appearance of a uniform white color throughout the mass. A little whey is allowed to separate on it. It should have a clean, sour milk product smell. Ingredients: pasteurized natural cow's milk, yeast. Nutritional value of 100 g of product: fats - 3.2 g, proteins - 2.9 g, carbohydrates - 4.0 g. Energy value of 100 g of product (calories) 56kcal/234kC. Net weight: 920±15 g. Storage conditions: t 4±2℃ and relative air humidity not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "36": {
+      "title":"Milk 0.1% GOST",
+      "description": "Skim milk 0.1% - homogenous, without sediment, without protein and fat lumps, slightly viscous, uniform white liquid throughout the entire mass. Characteristic smell of milk and slightly noticeable aroma of boiling. Ingredients: pasteurized natural skimmed cow's milk. Nutritional value of 100 g of product: fats-0.1 g., proteins-3.0 g., carbohydrates-4.8 g. 100 g. . energy value (calories) of the product: 30.9 kcal /129 kC. Net weight: 800±15 g. Storage conditions: t 4±2℃ and relative humidity of the air not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "37": {
+      "title":"Milk 3.2% GOST",
+      "description": "Milk 3.2% - homogenous, without sediment, without protein and fat lumps, slightly viscous, uniform white liquid throughout the entire mass. Characteristic smell of milk and slightly noticeable aroma of boiling. Ingredients: pasteurized natural cow's milk. Nutritional value of 100 g of product: fats-3.2 g, proteins-2.9 g, carbohydrates-4.7 g. Energy value of 100 g of product (calories) ): 58 kcal/243 kC. Net weight: 800±15 g. Storage conditions: t 4±2℃ and relative humidity of the air not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "38": {
+      "title":"Sour Cream",
+      "description": "Sour cream - homogenous, with the right consistency, evenly white or creamy throughout the whole mass, with a bright appearance. The taste and smell of a clean, pasteurized sour milk product should be felt. Ingredients: pasteurized cream from natural cow's milk, yeast. Nutritional value of 100 g of the product: fats - 25 g, proteins - 2.8 g, carbohydrates - 3 g. Energy value (calories) of 100 g of the product: 248 kcal/ 1038 kC. Net weight: 250±9g. Storage conditions: t 4±2℃ and relative humidity of the air not exceeding 85%. Production and expiration dates are indicated on the packaging. Allergens: lactose."
+    },
+    "39": {
+    "title": "Stone mill 2nd grade...",
+
+      "description": "NAME:'Stone mill 2nd grade wheat flour 1 kg' Ingredients: high-quality wheat flour. Storage conditions: the temperature should not be higher than 18 degrees, the relative humidity of the air should not be higher than 70%, it should be kept in clean and dry, ventilated, not infected with pests. It should be protected from direct sunlight. It is not allowed to store and transport together with products with a special smell. Nutritional and energy value of 100g of the product: protein-11.6g, fat-1.8 g, carbohydrate-64.8 g. Energy value-32 kcal. Manufacturer: Khirman MMC"
+    },
+    "40": {
+    "title": "Stone mill 2nd grade...",
+
+      "description": "NAME:'Stone mill 2nd grade wheat flour 1.850 kg' Ingredients: high-quality wheat flour. Storage conditions: the temperature should not be higher than 18 degrees, the relative humidity of the air should not be higher than 70%, it should be kept in clean and dry, ventilated, not infected with pests. It should be protected from direct sunlight. It is not allowed to store and transport together with products with a special smell. Nutritional and energy value of 100g of the product: protein-11.6g, fat-1.8 g, carbohydrate-64.8 g. Energy value-32 kcal. Manufacturer: Khirman MMC"
+    },
+    "41": {
+    "title": "Stone mill highest grade...",
+
+      "description": "NAME:'Stone mill highest grade flour 1 kg' Ingredients: high-quality wheat flour. Storage conditions: the temperature should not be higher than 18 degrees, the relative humidity of the air should not be higher than 70%, it should be kept in a clean and dry, ventilated, pest-free environment. It should be protected from direct sunlight. It is not allowed to store and transport together with products with a special smell. 100g. nutritional and energy value of the product: protein-10.3g, fat-1.1 g, carbohydrate-70.6 g. Energy value-334 kcal. Manufacturer: Khirman MMC"
+    },
+    "42": {
+    "title": "Stone Mill whole grain...",
+
+      "description": "NAME:'Stone Mill whole grain flour 1 kg' Ingredients: high-quality wheat flour. Storage conditions: the temperature should not be higher than 18 degrees, the relative humidity of the air should not be higher than 70%, it should be stored in clean and dry, ventilated, not infected with pests. It should be protected from direct sunlight. It is not allowed to store and transport together with products with a special smell. Nutritional and energy value of 100g product: protein-11.5g, fat-2.2 g, carbohydrate-61.5 g. Energy value-312 kcal. Manufacturer:  Khirman MMC"
+    },
+    "43": {
+    "title": "Stone Mill whole grain...",
+
+      "description": "NAME:'Stone Mill whole grain flour 1.850 kg' Ingredients: High-quality wheat flour. Storage conditions: the temperature should not be higher than 18 degrees, the relative humidity of the air should not be higher than 70%, clean and dry, ventilated, and not infected with pests. It should be protected from direct sunlight. It is not allowed to store and transport together with products with a special smell. 100g. Nutritional and energy value of the product: protein-11.5g, fat-2. 2 g, carbohydrate-61.5 g. Energy value-312 kcal. Manufacturer: Khirman MMC"
+    },
+    "44":{
+      "title":"Natural Cream",
+      "description":"Ingredients: cream from natural cow's milk. Shelf life: at t 4 ± 2 ° C - 4 days. Nutrition value per 100 g of product: fats - 58 g, proteins - 4.8 g, carbohydrates - 2.7 g. Energy value: 552kcal. Net weight: 240 ± 6 gr. Manufacturer company: “Xırman"
+    },
+    "45":{
+      "title":"Yogurt fat free",
+      "description":"Ingredients: pasteurized skimmed natural cow's milk, sourdough. Shelf life: at t 4 ± 2 ° C - 14 days. Nutrition value per 100 g of product: fats - 0.1 g, proteins - 2, 8 g, carbohydrates - 4 g. Energy value: 28 kcal. Net weight: 870 ± 17.4 g. Manufacturer company: “Xırman”"
+    },
+    "46": {
+      "title": "Kefir 0.1%",
+      "description": "Ingredients: pasteurized natural cow's milk, kefir yeast. 100 gr. nutritional value of the product: fats 2.5 g, proteins 2.9 g, carbohydrates 4 g. Energy value (calorie) of 100 g product: 50 kcal/209 kC.Net weight: 800±15gr.Storage conditions: t 15 days at 4±2°C."
+    },
+    "47":{
+      "title":"Kefir",
+      "description":"Ingredients: pasteurized natural cow's milk, kefir yeast. 100 gr. nutritional value of the product: fats 2.5 g, proteins 2.9 g, carbohydrates 4 g. Energy value (calorie) of 100 g product: 50 kcal/209 kC.Net weight: 800±15gr.Storage conditions: t 15 days at 4±2°C."
+    }
+    
+ 
+  }
+}
